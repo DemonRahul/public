@@ -1,0 +1,19 @@
+{
+    "version": "0.4",
+    "title": "Default Kit",
+    "type": "section",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [],
+    "page_settings": {
+        "button_border_border": "solid",
+        "button_border_color": "#FEB900"
+    }
+}
